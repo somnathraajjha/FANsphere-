@@ -1,0 +1,6 @@
+{
+  "name": "FanSphere",
+  "description": "FIFA 2026 Smart Stadium AI Companion for a premium, connected match day experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
